@@ -156,7 +156,7 @@
           {"codigo": "0617", "titulo": "Gravidade da Hipopotassemia"},
           {"codigo": "0602", "titulo": "Hidratação"}
         ]
-      },
+      }
       {
         "codigo": "H",
         "titulo": "Resposta Imune",
