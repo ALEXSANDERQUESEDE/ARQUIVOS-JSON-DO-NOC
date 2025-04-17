@@ -97,21 +97,6 @@
     ]
   }
 }
-Se quiser agora o Domínio 2 – Saúde Fisiológica, me diga “próximo” que sigo com ele!
-
-
-
-
-
-
-Você disse:
-PROXIMO
-O ChatGPT disse:
-Perfeito! Abaixo está o JSON completo do Domínio 2 – Saúde Fisiológica, com suas classes e todos os resultados do NOC:
-
-json
-Copiar
-Editar
 {
   "dominio": {
     "codigo": 2,
@@ -277,16 +262,6 @@ Editar
     ]
   }
 }
-Se quiser, já posso seguir para o Domínio 3 – Saúde Psicossocial. É só dizer: próximo.
-
-Você disse:
-PROXIMO
-O ChatGPT disse:
-Claro! Aqui está o JSON completo do Domínio 3 – Saúde Psicossocial, com todas as suas classes e os resultados organizados por código e título exatamente como estão no NOC:
-
-json
-Copiar
-Editar
 {
   "dominio": {
     "codigo": 3,
@@ -366,16 +341,6 @@ Editar
     ]
   }
 }
-Se desejar, posso continuar com o Domínio 4 – Conhecimento em Saúde e Comportamento. É só dizer próximo.
-
-Você disse:
-PROXIMO
-O ChatGPT disse:
-Perfeito! Aqui está o JSON completo do Domínio 4 – Conhecimento em Saúde e Comportamento, com todas as suas classes e os respectivos resultados conforme o NOC:
-
-json
-Copiar
-Editar
 {
   "dominio": {
     "codigo": 4,
@@ -415,18 +380,6 @@ Editar
     ]
   }
 }
-⚠️ Observação importante: Esse domínio está sem os códigos e títulos específicos dos resultados nas imagens enviadas até agora. Se você tiver mais imagens ou páginas com os resultados para essas classes, posso completar o JSON com eles também!
-
-Caso contrário, posso seguir para o Domínio 5 – Saúde Percebida, se desejar. Basta dizer “próximo”.
-
-Você disse:
-VAI PRO 5
-O ChatGPT disse:
-Perfeito! Aqui está o Domínio 5 – Saúde Percebida, com suas classes e resultados do NOC, em estrutura JSON clara e padronizada:
-
-json
-Copiar
-Editar
 {
   "dominio": {
     "codigo": 5,
@@ -457,18 +410,6 @@ Editar
     ]
   }
 }
-Este domínio é importante especialmente em contextos de autocuidado, qualidade de vida e reabilitação.
-
-Se quiser, posso seguir agora para o Domínio 6 – Família. É só dizer “próximo”.
-
-Você disse:
-PROXIMO
-O ChatGPT disse:
-Perfeito! Aqui está o Domínio 6 – Família, com suas classes e os respectivos resultados esperados do NOC no formato JSON:
-
-json
-Copiar
-Editar
 {
   "dominio": {
     "codigo": 6,
@@ -505,23 +446,6 @@ Editar
     ]
   }
 }
-Esse domínio é essencial para avaliar e apoiar dinâmicas familiares e a qualidade do cuidado informal (principalmente em contextos de dependência, pediatria e gerontologia).
-
-Se quiser, posso seguir agora com o Domínio 7 – Saúde da Comunidade. Me dá um “próximo” e eu continuo.
-
-
-
-
-
-
-Você disse:
-PROXIMO
-O ChatGPT disse:
-Excelente! Aqui está o Domínio 7 – Saúde da Comunidade, com suas classes e resultados esperados do NOC organizados no formato JSON:
-
-json
-Copiar
-Editar
 {
   "dominio": {
     "codigo": 7,
